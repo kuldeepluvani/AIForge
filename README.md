@@ -1,8 +1,15 @@
 # AIForge
 ---
 
+
+# Clients
+---
+* Ollama Client
+
+# Apps
+---
 <details>
-<summary>## TLDR Response of URL</summary>
+<summary>TLDR Response of URL</summary>
 ---
 * Request
 ```bash
