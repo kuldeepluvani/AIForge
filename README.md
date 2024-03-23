@@ -6,7 +6,7 @@
 
 # Apps
 <details>
-<summary>TLDR Response of URL</summary>
+<summary>TLDR of Wesbsite (QuickRead)</summary>
 ---
 * Request
 ```bash
