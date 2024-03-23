@@ -1,13 +1,10 @@
 # AIForge
----
 
 
 # Clients
----
 * Ollama Client
 
 # Apps
----
 <details>
 <summary>TLDR Response of URL</summary>
 ---
