@@ -15,6 +15,37 @@ TLDR response: I'm glad you found the article helpful! Large Language Models (LL
 ```
 </details>
 <details>
+<summary> YouTube Video Summerier </summary>
+# YouTube Video Summarizer
+
+This project leverages the YouTube Transcript API and a Large Language Model (e.g., Ollama) to generate concise summaries of YouTube videos.
+
+## Features
+
+* Fetches video transcripts using the YouTube Transcript API.
+* Integrates with your LLM of choice (replace with your actual LLM) to generate summaries.
+* Handles both video IDs and YouTube URLs as input.
+
+## Installation
+
+**Prerequisites**
+
+* Python 3.x
+* YouTube Transcript API (`pip install youtube_transcript_api`)
+* Your LLM client library (e.g., Ollama client)
+* API keys or credentials for the YouTube Transcript API (if required) and your chosen LLM.
+
+**Steps**
+
+```bash
+git clone git@github.com:kuldeepluvani/AIForge.git
+cd AIForge
+python apps/youtube_video_summeriser.py --video_id hCoyK4Zsnm4
+```
+</details>
+
+</details>
+<details>
 <summary> WhatsApp Bot </summary>
 WIP (Work in Progress)
 </details>
