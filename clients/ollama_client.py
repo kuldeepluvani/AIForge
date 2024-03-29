@@ -39,4 +39,4 @@ def call_llama_api_chat(messages: List, model="llama2"):
 
     response = requests.request("POST", LLAMA_API_CHAT_URL, headers=headers, data=payload)
 
-    return response.json()["message"]["content"]
+    return response.json()
